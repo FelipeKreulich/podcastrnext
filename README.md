@@ -21,7 +21,7 @@
 Foram utilizadas as seguintes ferramentas para o Projeto:
 
 - HTML5 (HyperText Markup Language)
-- CSS3 (Cascading Style Sheets)
+- SCSS (SASS)
 - Javascript (JS)
 - NextJS
 - TypeScript
